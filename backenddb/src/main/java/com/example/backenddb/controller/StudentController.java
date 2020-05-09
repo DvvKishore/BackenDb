@@ -165,7 +165,7 @@ public class StudentController {
 	
 	@GetMapping(value = "/v1/data")
 	public String sayHelloWorld() {
-	 return "Hello JavaSolutionsGuide Readers";
+	 return "Hello Veera How are You!!!";
 	}
 
 }
